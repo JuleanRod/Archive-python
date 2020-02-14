@@ -1,0 +1,5 @@
+price_first_item = int( input("Enter price of first Item:$ ") )
+price_second_item = int( input("Enter price of first item:$ ") )
+price_third_item = int( input("Enter price of third item:$ ") )
+total_price_all_items = str(price_first_item + price_second_item + price_third_item)
+print("Total price for all three items:$" + total_price_all_items)
