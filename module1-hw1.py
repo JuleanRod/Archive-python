@@ -1,3 +1,4 @@
+#first python program! :)
 user_last_name = input("What is your last name: ")
 user_first_name = input("What is your first name: ")
 hourly_wage = int( input ("What is your hourly wage: ") )
